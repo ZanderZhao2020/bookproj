@@ -1,0 +1,2039 @@
+{
+	"id": {
+		"name": "Indonesia",
+		"score": 0.65,
+		"achievements": [
+			"Increased the representation of women in government and politics.",
+			"Adopted laws and policies aimed at preventing and addressing gender-based violence."
+		],
+		"workNeeded": [
+			"Improve access to education and employment opportunities for women.",
+			"Eliminate discrimination against women in both law and practice."
+		]
+	},
+	"pg": {
+		"name": "Papua New Guinea",
+		"score": 0.38,
+		"achievements": [
+			"Implemented the Family Protection Act in 2013, which criminalizes domestic violence.",
+			"Increased the number of women in parliament from 0% to 4.8% in 2017."
+		],
+		"workNeeded": [
+			"Addressing cultural practices that discriminate against women and girls.",
+			"Improving access to education and healthcare for women and girls, especially in rural areas."
+		]
+	},
+	"mx": {
+		"name": "Mexico",
+		"score": 0.73,
+		"achievements": [
+			"The Mexican constitution guarantees gender equality.",
+			"Mexico has laws against domestic violence."
+		],
+		"workNeeded": [
+			"Violence against women remains a pervasive issue.",
+			"Abortion is still illegal in most parts of the country."
+		]
+	},
+	"ee": {
+		"name": "Estonia",
+		"score": 0.68,
+		"achievements": [
+			"Implemented gender quotas in politics."
+		],
+		"workNeeded": [
+			"Increase awareness of and combat gender-based violence."
+		]
+	},
+	"dz": {
+		"name": "Algeria",
+		"score": 0.57,
+		"achievements": [
+			"Passed a law criminalizing violence against women (2015)."
+		],
+		"workNeeded": [
+			"Women still face legal and social discrimination in Algeria.",
+			"Gender-based violence remains a serious problem."
+		]
+	},
+	"ma": {
+		"name": "Morocco",
+		"score": 0.69,
+		"achievements": [
+			"Adoption of the Family Code in 2004 giving women greater rights in marriage and divorce",
+			"Introduction of a quota system that mandates women make up at least 20% of elected officials"
+		],
+		"workNeeded": [
+			"Eliminating discrimination against women in inheritance laws",
+			"Addressing gender-based violence, including sexual harassment and assault."
+		]
+	},
+	"mr": {
+		"name": "Mauritania",
+		"score": 0.42,
+		"achievements": [
+			"Increased representation of women in politics"
+		],
+		"workNeeded": [
+			"Eliminating gender discrimination in the law and social norms"
+		]
+	},
+	"sn": {
+		"name": "Senegal",
+		"score": 0.68,
+		"achievements": [
+			"Implemented gender quotas in parliament and other governmental bodies.",
+			"Adopted laws criminalizing female genital mutilation."
+		],
+		"workNeeded": [
+			"Addressing discrimination against women in family law.",
+			"Reducing sexual and gender-based violence."
+		]
+	},
+	"gm": {
+		"name": "Gambia",
+		"score": 0.63,
+		"achievements": [
+			"The Gambian constitution guarantees gender equality.",
+			"Free maternal and child health services."
+		],
+		"workNeeded": [
+			"Elimination of Female Genital Mutilation (FGM).",
+			"Increasing women's participation in decision-making processes."
+		]
+	},
+	"gw": {
+		"name": "Guinea-Bissau",
+		"score": 0.62,
+		"achievements": [
+			"Increased women's access to education"
+		],
+		"workNeeded": [
+			"Addressing gender-based violence and discrimination"
+		]
+	},
+	"gn": {
+		"name": "Guinea",
+		"score": 0.55,
+		"achievements": [
+			"Adopted a law in 2018 criminalizing forced marriage and female genital mutilation.",
+			"Increased representation of women in politics with over 25% of parliamentary seats held by women."
+		],
+		"workNeeded": [
+			"Addressing cultural and societal barriers that limit the economic and social empowerment of women.",
+			"Improving access to education and healthcare for women, particularly in rural areas."
+		]
+	},
+	"sl": {
+		"name": "Sierra Leone",
+		"score": 0.45,
+		"achievements": [
+			"Implemented the Prevention of Maternal Mortality Act to improve maternal health",
+			"Launched the National Strategy on Gender-Based Violence in 2019"
+		],
+		"workNeeded": [
+			"Strengthen the legal and policy framework to address discrimination against women",
+			"Eliminate harmful traditional practices that limit women's rights"
+		]
+	},
+	"lr": {
+		"name": "Liberia",
+		"score": 0.61,
+		"achievements": [
+			"Implemented a National Action Plan on UNSCR 1325 to increase women's participation in peace and security processes."
+		],
+		"workNeeded": [
+			"Eliminate all forms of discrimination against women, including harmful traditional practices like female genital mutilation."
+		]
+	},
+	"ci": {
+		"name": "Côte d'Ivoire",
+		"score": 0.65,
+		"achievements": [
+			"Adopted a new family law in 2021 that strengthens women's rights.",
+			"Increased the number of women in decision-making positions."
+		],
+		"workNeeded": [
+			"Eliminate discrimination against women in the workplace and ensure equal pay.",
+			"Address violence against women, including female genital mutilation and child marriage."
+		]
+	},
+	"ml": {
+		"name": "Mali",
+		"score": 0.45,
+		"achievements": [
+			"Increased representation of women in parliament"
+		],
+		"workNeeded": [
+			"Reducing child marriage and female genital mutilation"
+		]
+	},
+	"bf": {
+		"name": "Burkina Faso",
+		"score": 0.45,
+		"achievements": [
+			"Adopted laws to combat gender-based violence and promote women's political participation."
+		],
+		"workNeeded": [
+			"Reduce child marriage and female genital mutilation prevalence.",
+			"Promote equal access to education and health care services."
+		]
+	},
+	"ne": {
+		"name": "Niger",
+		"score": 0.64,
+		"achievements": [
+			"Adopted a new constitution in 2010 that includes provisions promoting gender equality.",
+			"Invested in programs to increase girls' enrollment in schools and reduce child marriage."
+		],
+		"workNeeded": [
+			"Eliminate discrimination against women in law and practice.",
+			"Combat gender-based violence and harmful practices such as female genital mutilation/cutting."
+		]
+	},
+	"gh": {
+		"name": "Ghana",
+		"score": 0.6,
+		"achievements": [
+			"Passed Domestic Violence Act in 2007",
+			"Increased female representation in Parliament to 13.8%"
+		],
+		"workNeeded": [
+			"Addressing gender-based violence",
+			"Eliminating discrimination against women in education and employment opportunities"
+		]
+	},
+	"tg": {
+		"name": "Togo",
+		"score": 0.43,
+		"achievements": [
+			"Adopted a law in 2015 to combat gender-based violence and protect victims.",
+			"Launched a program to increase girls' access to education."
+		],
+		"workNeeded": [
+			"Eliminate discriminatory provisions in family laws",
+			"Combat traditional practices that violate women's rights"
+		]
+	},
+	"bj": {
+		"name": "Benin",
+		"score": 0.67,
+		"achievements": [
+			"Introduced a law to combat human trafficking and protect victims, including women and children."
+		],
+		"workNeeded": [
+			"Eliminating gender-based violence and discrimination against women."
+		]
+	},
+	"ng": {
+		"name": "Nigeria",
+		"score": 0.62,
+		"achievements": [
+			"Introduced the Violence Against Persons (Prohibition) Act which criminalizes various forms of violence against women.",
+			"Adopted the National Gender Policy to promote gender equality."
+		],
+		"workNeeded": [
+			"Improving access to education for girls.",
+			"Strengthening enforcement of laws protecting women's rights."
+		]
+	},
+	"tn": {
+		"name": "Tunisia",
+		"score": 0.73,
+		"achievements": [
+			"Adoption of a new constitution that enshrines gender equality.",
+			"Legalized abortion in certain cases such as rape, fetal impairment, and risk to the mother's life."
+		],
+		"workNeeded": [
+			"Implementation and enforcement of laws and policies promoting gender equality.",
+			"Continuing efforts to combat gender-based violence, including domestic violence."
+		]
+	},
+	"ly": {
+		"name": "Libya",
+		"score": 0.62,
+		"achievements": [
+			"Enacted a law criminalizing domestic violence against women."
+		],
+		"workNeeded": [
+			"Women's participation in politics and decision-making processes needs to be increased."
+		]
+	},
+	"eg": {
+		"name": "Egypt",
+		"score": 0.56,
+		"achievements": [
+			"Increased female representation in parliament and government positions."
+		],
+		"workNeeded": [
+			"End discrimination against women in the workplace and in society as a whole."
+		]
+	},
+	"td": {
+		"name": "Chad",
+		"score": 0.43,
+		"achievements": [
+			"Increased women's representation in politics.",
+			"Adopted laws protecting women from violence."
+		],
+		"workNeeded": [
+			"Eliminating gender-based discrimination in all aspects of life.",
+			"Improving access to education and healthcare for women."
+		]
+	},
+	"ss": {
+		"name": "South Sudan",
+		"score": 0.32,
+		"achievements": [
+			"Adopted the Criminal Act of 2008, which criminalizes gender-based violence.",
+			"South Sudan ratified the Convention on the Elimination of All Forms of Discrimination Against Women (CEDAW) in 2015."
+		],
+		"workNeeded": [
+			"Addressing the high rates of maternal mortality and improving access to reproductive health services.",
+			"Combatting widespread societal discrimination against women and girls, particularly in regards to education and employment opportunities."
+		]
+	},
+	"sd": {
+		"name": "Sudan",
+		"score": 0.68,
+		"achievements": [
+			"Banned female genital mutilation (FGM) in 2020",
+			"Increased representation of women in government and politics"
+		],
+		"workNeeded": [
+			"Eliminate discrimination against women in personal status laws",
+			"Address violence against women, including marital rape"
+		]
+	},
+	"cm": {
+		"name": "Cameroon",
+		"score": 0.53,
+		"achievements": [
+			"Implemented policies to end child marriage.",
+			"Increased women's political representation."
+		],
+		"workNeeded": [
+			"Addressing gender-based violence and discrimination.",
+			"Improving access to education and healthcare for women."
+		]
+	},
+	"er": {
+		"name": "Eritrea",
+		"score": 0.57,
+		"achievements": [
+			"Established a National Union of Eritrean Women in 1979 to promote gender equality and women's rights."
+		],
+		"workNeeded": [
+			"Increase access to education and healthcare for women, especially in rural areas."
+		]
+	},
+	"dj": {
+		"name": "Djibouti",
+		"score": 0.45,
+		"achievements": [
+			"Female genital mutilation banned",
+			"Increased women's representation in government"
+		],
+		"workNeeded": [
+			"Gender-based violence is prevalent",
+			"Access to education and healthcare is limited for women"
+		]
+	},
+	"et": {
+		"name": "Ethiopia",
+		"score": 0.55,
+		"achievements": [
+			"Increased political representation of women",
+			"Implemented laws against gender-based violence"
+		],
+		"workNeeded": [
+			"Addressing cultural attitudes towards gender roles",
+			"Strengthening access to education and healthcare for women"
+		]
+	},
+	"so": {
+		"name": "Somalia",
+		"score": 0.32,
+		"achievements": [
+			"Increased female representation in politics through a quota system.",
+			"Adopted a national policy on gender and development."
+		],
+		"workNeeded": [
+			"Eliminate harmful cultural practices that limit women's participation in public life.",
+			"Increase access to education and healthcare for women and girls."
+		]
+	},
+	"ye": {
+		"name": "Yemen",
+		"score": 0.25,
+		"achievements": [
+			"Women were granted the right to vote and run for office in 1970."
+		],
+		"workNeeded": [
+			"Access to education and healthcare for women is limited.",
+			"Child marriage is widespread, with over half of girls married before the age of 18."
+		]
+	},
+	"cf": {
+		"name": "Central African Republic",
+		"score": 0.44,
+		"achievements": [
+			"Increased representation of women in politics and government."
+		],
+		"workNeeded": [
+			"Reduce gender-based violence and discrimination against women."
+		]
+	},
+	"st": {
+		"name": "Sao Tome and Principe",
+		"score": 0.65,
+		"achievements": [
+			"Increased women's participation in politics and decision-making."
+		],
+		"workNeeded": [
+			"Combat gender-based violence and discrimination."
+		]
+	},
+	"gq": {
+		"name": "Equatorial Guinea",
+		"score": 0.52,
+		"achievements": [
+			"Implemented laws against gender-based violence."
+		],
+		"workNeeded": [
+			"Addressing discrimination and violence against women that still exist in practice."
+		]
+	},
+	"ga": {
+		"name": "Gabon",
+		"score": 0.65,
+		"achievements": [
+			"Increased representation of women in politics and government.",
+			"Improved access to education for girls."
+		],
+		"workNeeded": [
+			"Reduce gender-based violence and discrimination.",
+			"Ensure equal pay and opportunities for women in the workforce."
+		]
+	},
+	"cg": {
+		"name": "Congo",
+		"score": 0.57,
+		"achievements": [
+			"Increased women's representation in parliament"
+		],
+		"workNeeded": [
+			"Eliminating gender-based violence"
+		]
+	},
+	"ao": {
+		"name": "Angola",
+		"score": 0.62,
+		"achievements": [
+			"Increased women's participation in politics and leadership positions.",
+			"Adopted laws to prevent violence against women."
+		],
+		"workNeeded": [
+			"Eliminate discriminatory practices in customary law and traditional practices.",
+			"Increase access to education and healthcare for women."
+		]
+	},
+	"cd": {
+		"name": "Democractic Republic of the Congo",
+		"score": 0.53,
+		"achievements": [
+			"Increased women's political representation through quotas",
+			"Implemented laws criminalizing gender-based violence"
+		],
+		"workNeeded": [
+			"End widespread sexual violence against women",
+			"Eliminate discriminatory customary practices against women"
+		]
+	},
+	"rw": {
+		"name": "Rwanda",
+		"score": 0.73,
+		"achievements": [
+			"Implemented gender quotas in government positions and parliament.",
+			"Established a zero-tolerance policy for gender-based violence."
+		],
+		"workNeeded": [
+			"Strengthening the enforcement of laws protecting women's rights.",
+			"Increasing access to education and economic opportunities for women."
+		]
+	},
+	"bi": {
+		"name": "Burundi",
+		"score": 0.55,
+		"achievements": [
+			"Adopted a law that criminalizes gender-based violence",
+			"Increased the representation of women in Parliament to 36%"
+		],
+		"workNeeded": [
+			"Eliminating discrimination based on customary laws and practices",
+			"Addressing high rates of sexual violence against women and girls"
+		]
+	},
+	"ug": {
+		"name": "Uganda",
+		"score": 0.65,
+		"achievements": [
+			"Increased representation of women in parliament and local government.",
+			"Implemented policies to combat gender-based violence."
+		],
+		"workNeeded": [
+			"Eliminating discrimination against women in customary law and traditions.",
+			"Improving access to education and healthcare for women and girls, especially in rural areas."
+		]
+	},
+	"ke": {
+		"name": "Kenya",
+		"score": 0.65,
+		"achievements": [
+			"Constitutional guarantees of gender equality",
+			"Increased female representation in politics"
+		],
+		"workNeeded": [
+			"Combatting gender-based violence",
+			"Eliminating barriers to education and employment opportunities for women"
+		]
+	},
+	"tz": {
+		"name": "Tanzania",
+		"score": 0.57,
+		"achievements": [
+			"Implemented the Marriage Act of 1971 which raised the age of marriage to 18 for girls.",
+			"Introduced free primary education for all children, benefiting many girls who were previously unable to attend school."
+		],
+		"workNeeded": [
+			"Enforce existing laws and policies that protect women's rights.",
+			"Eliminate gender-based violence and discrimination against women and girls."
+		]
+	},
+	"zm": {
+		"name": "Zambia",
+		"score": 0.65,
+		"achievements": [
+			"Increased women's representation in parliament.",
+			"Implemented policies to address gender-based violence."
+		],
+		"workNeeded": [
+			"Increase access to education for girls.",
+			"Eliminate child marriage."
+		]
+	},
+	"mw": {
+		"name": "Malawi",
+		"score": 0.65,
+		"achievements": [
+			"Increased access to education for girls and women.",
+			"Increased representation of women in politics."
+		],
+		"workNeeded": [
+			"Addressing high rates of child marriage and gender-based violence.",
+			"Improving access to healthcare and family planning services for women."
+		]
+	},
+	"mz": {
+		"name": "Mozambique",
+		"score": 0.54,
+		"achievements": [
+			"Increased women's representation in parliament."
+		],
+		"workNeeded": [
+			"Improving access to education and healthcare for women."
+		]
+	},
+	"zw": {
+		"name": "Zimbabwe",
+		"score": 0.59,
+		"achievements": [
+			"Increased number of women in parliament."
+		],
+		"workNeeded": [
+			"Addressing gender-based violence and discrimination."
+		]
+	},
+	"na": {
+		"name": "Namibia",
+		"score": 0.75,
+		"achievements": [
+			"Namibia has a gender quota system in place, which has resulted in increased representation of women in politics.",
+			"Namibia passed the Married Persons Equality Act in 1996, which gave women equal rights in marriage."
+		],
+		"workNeeded": [
+			"Namibia still struggles with high rates of gender-based violence.",
+			"There is still a significant gender pay gap in Namibia."
+		]
+	},
+	"bw": {
+		"name": "Botswana",
+		"score": 0.75,
+		"achievements": [
+			"Increased parliamentary representation for women.",
+			"Implemented laws to protect women from domestic violence."
+		],
+		"workNeeded": [
+			"Eliminating gender stereotypes and cultural practices that discriminate against women.",
+			"Combatting sexual harassment and violence against women."
+		]
+	},
+	"sz": {
+		"name": "Eswatini",
+		"score": 0.65,
+		"achievements": [
+			"Increased political representation of women.",
+			"Adopted laws against gender-based violence."
+		],
+		"workNeeded": [
+			"Addressing cultural biases and stereotypes that limit women's opportunities.",
+			"Improving access to education and healthcare for women."
+		]
+	},
+	"ls": {
+		"name": "Lesotho",
+		"score": 0.67,
+		"achievements": [
+			"Established a National Gender and Development Policy to promote gender equality.",
+			"Adopted the Maputo Protocol which protects women's rights.",
+			"Increased representation of women in politics."
+		],
+		"workNeeded": [
+			"Reduce high rates of gender-based violence.",
+			"Address discrimination against women in the workplace and education.",
+			"Increase access to reproductive health services for women."
+		]
+	},
+	"za": {
+		"name": "South Africa",
+		"score": 0.72,
+		"achievements": [
+			"Implemented laws to combat gender-based violence and discrimination",
+			"Increased representation of women in government positions"
+		],
+		"workNeeded": [
+			"Addressing high rates of violence against women and girls",
+			"Increasing economic opportunities for women, particularly in rural areas"
+		]
+	},
+	"gl": {
+		"name": "Greenland",
+		"score": 0.75,
+		"achievements": [
+			"Increased representation of women in politics and public life."
+		],
+		"workNeeded": [
+			"Addressing issues with gender-based violence and discrimination."
+		]
+	},
+	"au": {
+		"name": "Australia",
+		"score": 0.75,
+		"achievements": [
+			"Implementation of the Workplace Gender Equality Act to promote and improve gender equality in the workplace.",
+			"The Australian Human Rights Commission provides legal protection against sex discrimination."
+		],
+		"workNeeded": [
+			"Addressing the persistent gender wage gap.",
+			"Improving access to affordable childcare services."
+		]
+	},
+	"nz": {
+		"name": "New Zealand",
+		"score": 0.86,
+		"achievements": [
+			"Passed a law granting paid leave to domestic violence victims",
+			"First country in the world to give women the right to vote"
+		],
+		"workNeeded": [
+			"Reduce the gender pay gap",
+			"Address sexual harassment and assault in the workplace"
+		]
+	},
+	"nc": {
+		"name": "New Caledonia",
+		"score": 0.7,
+		"achievements": [
+			"Women have the right to vote and run for office.",
+			"Gender equality is recognized in the country's constitution."
+		],
+		"workNeeded": [
+			"There are still significant gender disparities in terms of access to employment, education, and political representation."
+		]
+	},
+	"my": {
+		"name": "Malaysia",
+		"score": 0.75,
+		"achievements": [
+			"Increased women's participation in the workforce.",
+			"Implemented policies to improve women's access to education."
+		],
+		"workNeeded": [
+			"Eliminate child marriage and ensure legal protection for victims of domestic violence.",
+			"Increase representation of women in political leadership roles."
+		]
+	},
+	"bn": {
+		"name": "Brunei Darussalam",
+		"score": 0.68,
+		"achievements": [
+			"Women are represented in both the private and public sectors.",
+			"The government has established a National Committee on Women's Issues."
+		],
+		"workNeeded": [
+			"Women still face discrimination in inheritance, divorce, and child custody cases.",
+			"The government should consider ratifying CEDAW to further protect women's rights."
+		]
+	},
+	"sb": {
+		"name": "Solomon Islands",
+		"score": 0.45,
+		"achievements": [
+			"Increased women's representation in politics through the Gender Equality and Women's Development Policy.",
+			"Increased access to education for girls."
+		],
+		"workNeeded": [
+			"Address high rates of gender-based violence and discrimination against women.",
+			"Address unequal opportunities for women in employment and leadership positions."
+		]
+	},
+	"vu": {
+		"name": "Vanuatu",
+		"score": 0.68,
+		"achievements": [
+			"Women have equal rights to property and land.",
+			"They have a quota system for women in Parliament."
+		],
+		"workNeeded": [
+			"Violence against women is still prevalent.",
+			"There is a need to increase women's participation in the formal workforce."
+		]
+	},
+	"fj": {
+		"name": "Fiji",
+		"score": 0.72,
+		"achievements": [
+			"Increased women's representation in parliament and government positions."
+		],
+		"workNeeded": [
+			"Reduce violence against women and girls."
+		]
+	},
+	"ph": {
+		"name": "Philippines",
+		"score": 0.77,
+		"achievements": [
+			"Implemented laws protecting women from gender-based violence",
+			"Increasing number of women in leadership positions"
+		],
+		"workNeeded": [
+			"Closing the gender wage gap",
+			"Providing better access to reproductive health services"
+		]
+	},
+	"cn": {
+		"name": "China",
+		"score": 0.7,
+		"achievements": [
+			"Increased access to education and job opportunities for women."
+		],
+		"workNeeded": [
+			"Elimination of gender discrimination in the workplace.",
+			"Protection against gender-based violence and harassment."
+		]
+	},
+	"tw": {
+		"name": "Taiwan",
+		"score": 0.85,
+		"achievements": [
+			"Legalized same-sex marriage in 2019."
+		],
+		"workNeeded": [
+			"Provide better support for single mothers."
+		]
+	},
+	"jp": {
+		"name": "Japan",
+		"score": 0.75,
+		"achievements": [
+			"Increased women's participation in the workforce",
+			"Implemented laws against domestic violence"
+		],
+		"workNeeded": [
+			"Gender pay gap still exists",
+			"Low representation of women in politics and leadership positions"
+		]
+	},
+	"ru": {
+		"name": "Russia",
+		"score": 0.7,
+		"achievements": [
+			"Women have the right to vote and run for office",
+			"Equal pay for equal work is legally mandated"
+		],
+		"workNeeded": [
+			"Gender-based violence remains a significant problem",
+			"Representation of women in politics and top-level positions is low"
+		]
+	},
+	"us": {
+		"name": "United States",
+		"score": 0.83,
+		"achievements": [
+			"Ratification of the 19th Amendment granting women the right to vote.",
+			"Title IX which prohibits sex discrimination in education."
+		],
+		"workNeeded": [
+			"Equal pay for equal work.",
+			"Maternity leave policies."
+		]
+	},
+	"fr": {
+		"name": "France",
+		"score": 0.85,
+		"achievements": [
+			"Legalized abortion in 1975",
+			"Introduced paid maternity leave in 1982"
+		],
+		"workNeeded": [
+			"Closing the gender pay gap",
+			"Increasing the number of women in leadership positions"
+		]
+	},
+	"mu": {
+		"name": "Mauritius",
+		"score": 0.7,
+		"achievements": [
+			"Women's representation in politics has improved with the election of Ameenah Gurib-Fakim as the first female President of Mauritius.",
+			"Mauritius has adopted policies to promote gender equality and combat domestic violence."
+		],
+		"workNeeded": [
+			"Gender-based violence is still prevalent, and there is a need for more comprehensive legislation and better enforcement.",
+			"Women remain underrepresented in senior positions in both public and private sectors."
+		]
+	},
+	"mg": {
+		"name": "Madagascar",
+		"score": 0.6,
+		"achievements": [
+			"Ratification of the Convention on the Elimination of All Forms of Discrimination Against Women (CEDAW)",
+			"Women's political participation increased in elected and appointed positions."
+		],
+		"workNeeded": [
+			"High rates of gender-based violence",
+			"Limited access to education for girls and women."
+		]
+	},
+	"km": {
+		"name": "Comoros",
+		"score": 0.55,
+		"achievements": [
+			"Increased the representation of women in government positions.",
+			"Implemented laws against gender-based violence."
+		],
+		"workNeeded": [
+			"Reduce child marriage rates.",
+			"Improve access to education for girls."
+		]
+	},
+	"sc": {
+		"name": "Seychelles",
+		"score": 0.67,
+		"achievements": [
+			"Increased representation of women in politics and public life."
+		],
+		"workNeeded": [
+			"Eliminating gender-based violence and discrimination against women."
+		]
+	},
+	"mv": {
+		"name": "Maldives",
+		"score": 0.63,
+		"achievements": [
+			"Established a Gender Equality Act that prohibits discrimination against women in all areas of life."
+		],
+		"workNeeded": [
+			"Eliminate child marriage and improve access to education for girls."
+		]
+	},
+	"pt": {
+		"name": "Portugal",
+		"score": 0.85,
+		"achievements": [
+			"Legalized abortion in 2007.",
+			"Established the Commission for Citizenship and Gender Equality to promote gender equality."
+		],
+		"workNeeded": [
+			"Eliminate the gender pay gap.",
+			"Promote women's participation in politics and public life."
+		]
+	},
+	"es": {
+		"name": "Spain",
+		"score": 0.85,
+		"achievements": [
+			"Mandatory gender equality training for government workers.",
+			"Legalized abortion in 1985."
+		],
+		"workNeeded": [
+			"Addressing ongoing gender pay gap.",
+			"Increasing representation of women in political and economic spheres."
+		]
+	},
+	"cv": {
+		"name": "Cabo Verde",
+		"score": 0.75,
+		"achievements": [
+			"Implemented laws against gender-based violence.",
+			"Increased female participation in government."
+		],
+		"workNeeded": [
+			"Ensuring effective implementation of existing laws and policies.",
+			"Addressing the gender pay gap."
+		]
+	},
+	"dm": {
+		"name": "Dominica",
+		"score": 0.6,
+		"achievements": [
+			"Increased women's political participation through legislation."
+		],
+		"workNeeded": [
+			"Reduce gender-based violence and discrimination."
+		]
+	},
+	"lc": {
+		"name": "Saint Lucia",
+		"score": 0.75,
+		"achievements": [
+			"Established a National Gender Machinery to coordinate and monitor gender-related policies and programs.",
+			"Ratified the Convention on the Elimination of All Forms of Discrimination Against Women (CEDAW)."
+		],
+		"workNeeded": [
+			"Addressing gender-based violence, including sexual harassment and domestic violence.",
+			"Increasing women's political participation and representation."
+		]
+	},
+	"vc": {
+		"name": "Saint Vincent and the Grenadines",
+		"score": 0.72,
+		"achievements": [
+			"Implemented laws against domestic violence.",
+			"Increased women's participation in politics."
+		],
+		"workNeeded": [
+			"Addressing the issue of sexual harassment in the workplace.",
+			"Strengthening laws on gender-based violence."
+		]
+	},
+	"gd": {
+		"name": "Grenada",
+		"score": 0.75,
+		"achievements": [
+			"Implemented Domestic Violence and Sexual Offenses Unit within the Royal Grenada Police Force to better address violence against women."
+		],
+		"workNeeded": [
+			"Increase representation of women in politics and leadership positions."
+		]
+	},
+	"tt": {
+		"name": "Trinidad and Tobago",
+		"score": 0.67,
+		"achievements": [
+			"Increased representation of women in politics."
+		],
+		"workNeeded": [
+			"Combatting gender-based violence."
+		]
+	},
+	"pr": {
+		"name": "Puerto Rico",
+		"score": 0.75,
+		"achievements": [
+			"The Puerto Rican Constitution guarantees equal rights to men and women.",
+			"Women in Puerto Rico have been elected to high-ranking government positions."
+		],
+		"workNeeded": [
+			"Gender-based violence is still a significant problem in Puerto Rico."
+		]
+	},
+	"ht": {
+		"name": "Haiti",
+		"score": 0.48,
+		"achievements": [
+			"Increased women's political participation through gender quota laws.",
+			"Adopted measures to combat gender-based violence."
+		],
+		"workNeeded": [
+			"Eliminate discrimination against women in law and practice.",
+			"Address high rates of maternal mortality and inadequate access to healthcare services for women."
+		]
+	},
+	"do": {
+		"name": "Dominican Republic",
+		"score": 0.65,
+		"achievements": [
+			"Increased participation of women in politics and public life.",
+			"Adopted a law criminalizing femicide."
+		],
+		"workNeeded": [
+			"Gender-based violence remains a serious problem.",
+			"Women continue to face discrimination in employment and education."
+		]
+	},
+	"fk": {
+		"name": "Falklands",
+		"score": 0.7,
+		"achievements": [
+			"Women have equal access to education and employment opportunities."
+		],
+		"workNeeded": [
+			"Promoting women's leadership and political participation.",
+			"Eliminating gender-based violence."
+		]
+	},
+	"is": {
+		"name": "Iceland",
+		"score": 0.9,
+		"achievements": [
+			"One of the highest rates of female representation in government.",
+			"Equal pay for equal work is mandated by law."
+		],
+		"workNeeded": [
+			"Gender-based violence continues to be a problem.",
+			"More progress can be made in promoting women's economic empowerment."
+		]
+	},
+	"no": {
+		"name": "Norway",
+		"score": 0.85,
+		"achievements": [
+			"Implemented gender quotas for corporate boards",
+			"Equal pay for equal work"
+		],
+		"workNeeded": [
+			"Gender gap in STEM fields",
+			"Gender-based violence"
+		]
+	},
+	"ca": {
+		"name": "Canada",
+		"score": 0.86,
+		"achievements": [
+			"Legalized abortion in 1988.",
+			"Implemented a Gender-Based Analysis Plus (GBA+) framework to ensure gender equality is considered in policy making."
+		],
+		"workNeeded": [
+			"Addressing the wage gap and increasing representation of women in leadership positions.",
+			"Including a broader range of perspectives in their policy-making, such as those of marginalized groups."
+		]
+	},
+	"lk": {
+		"name": "Sri Lanka",
+		"score": 0.72,
+		"achievements": [
+			"Increased female representation in government and public sector employment.",
+			"Implemented measures to prevent violence against women."
+		],
+		"workNeeded": [
+			"Addressing gender discrimination in inheritance, property rights, and access to credit.",
+			"Enforcing laws on sexual harassment, domestic violence, and child marriage."
+		]
+	},
+	"cu": {
+		"name": "Cuba",
+		"score": 0.72,
+		"achievements": [
+			"High rate of female participation in politics and education."
+		],
+		"workNeeded": [
+			"Lack of legal recognition for same-sex marriage.",
+			"Gender-based violence still remains a significant issue."
+		]
+	},
+	"bs": {
+		"name": "Bahamas",
+		"score": 0.68,
+		"achievements": [
+			"Implemented the Bahamas National Gender Policy to promote gender equality and empowerment of women.",
+			"Increased participation of women in politics and decision-making positions."
+		],
+		"workNeeded": [
+			"Eliminate discrimination against women in the workplace and address gaps in pay.",
+			"Strengthen legal protections for women, particularly regarding sexual harassment and violence."
+		]
+	},
+	"jm": {
+		"name": "Jamaica",
+		"score": 0.65,
+		"achievements": [
+			"Established a Bureau of Women's Affairs to promote gender equality and women's empowerment."
+		],
+		"workNeeded": [
+			"Increase legal protections against gender-based violence and discrimination."
+		]
+	},
+	"ec": {
+		"name": "Ecuador",
+		"score": 0.75,
+		"achievements": [
+			"Implemented laws against gender violence and femicide.",
+			"Increased female participation in politics."
+		],
+		"workNeeded": [
+			"Eliminating discrimination and violence against women in practice.",
+			"Ensuring equal pay for equal work."
+		]
+	},
+	"gt": {
+		"name": "Guatemala",
+		"score": 0.62,
+		"achievements": [
+			"Increased political representation of women",
+			"Implementation of laws addressing gender-based violence"
+		],
+		"workNeeded": [
+			"Addressing high rates of femicide and sexual violence",
+			"Reducing the gender wage gap"
+		]
+	},
+	"hn": {
+		"name": "Honduras",
+		"score": 0.45,
+		"achievements": [
+			"Implemented laws to protect women from domestic violence and femicide.",
+			"Increased the number of women in political positions."
+		],
+		"workNeeded": [
+			"Addressing gender-based discrimination and inequality.",
+			"Improving access to reproductive health services for women."
+		]
+	},
+	"sv": {
+		"name": "El Salvador",
+		"score": 0.68,
+		"achievements": [
+			"Established a department within the Attorney General's Office to investigate crimes against women."
+		],
+		"workNeeded": [
+			"Eliminate discrimination in employment and ensure equal pay for equal work.",
+			"Strengthen measures to prevent violence against women and girls."
+		]
+	},
+	"ni": {
+		"name": "Nicaragua",
+		"score": 0.63,
+		"achievements": [
+			"Established a National Gender Equality Commission to promote women's rights and gender equality.",
+			"Implemented a law against gender-based violence that recognizes femicide as a separate crime."
+		],
+		"workNeeded": [
+			"Increase efforts to combat gender-based violence, which remains prevalent in the country.",
+			"Address cultural barriers and traditional gender roles that limit women's access to education and employment opportunities."
+		]
+	},
+	"cr": {
+		"name": "Costa Rica",
+		"score": 0.78,
+		"achievements": [
+			"Established a government agency dedicated to promoting gender equality and women's rights."
+		],
+		"workNeeded": [
+			"Addressing the high rates of violence against women, particularly domestic violence and femicide."
+		]
+	},
+	"pa": {
+		"name": "Panama",
+		"score": 0.65,
+		"achievements": [
+			"Increased female representation in parliament and government positions."
+		],
+		"workNeeded": [
+			"Combat violence against women and ensure equal access to education and employment opportunities."
+		]
+	},
+	"co": {
+		"name": "Colombia",
+		"score": 0.72,
+		"achievements": [
+			"Increased women’s participation in politics and decision-making processes."
+		],
+		"workNeeded": [
+			"Combat gender-based violence and discrimination."
+		]
+	},
+	"ve": {
+		"name": "Venezuela",
+		"score": 0.65,
+		"achievements": [
+			"Implemented laws to protect women from violence and discrimination",
+			"Established a national women's health program"
+		],
+		"workNeeded": [
+			"Increase access to education and job opportunities for women",
+			"Combat gender-based violence and ensure accountability for perpetrators"
+		]
+	},
+	"gy": {
+		"name": "Guyana",
+		"score": 0.65,
+		"achievements": [
+			"Established the Women and Gender Equality Commission to promote women's rights.",
+			"Passed laws criminalizing sexual harassment in the workplace."
+		],
+		"workNeeded": [
+			"Improve access to education and healthcare for women, particularly in rural areas.",
+			"Address high rates of gender-based violence and improve law enforcement response."
+		]
+	},
+	"sr": {
+		"name": "Suriname",
+		"score": 0.63,
+		"achievements": [
+			"Enacted laws criminalizing domestic violence and providing support services for survivors."
+		],
+		"workNeeded": [
+			"Addressing high rates of sexual violence against women, including by strengthening the justice system response to such crimes."
+		]
+	},
+	"pe": {
+		"name": "Peru",
+		"score": 0.72,
+		"achievements": [
+			"Increased access to education for women."
+		],
+		"workNeeded": [
+			"Eliminating gender-based violence and discrimination."
+		]
+	},
+	"bo": {
+		"name": "Bolivia",
+		"score": 0.65,
+		"achievements": [
+			"Implemented a new constitution in 2009 that recognizes women's rights and prohibits discrimination based on gender.",
+			"Increased representation of women in politics through laws mandating a minimum quota of 50% women candidates in national and local elections."
+		],
+		"workNeeded": [
+			"Combat high rates of violence against women, including femicide.",
+			"Increase access to education and healthcare for rural and indigenous women."
+		]
+	},
+	"py": {
+		"name": "Paraguay",
+		"score": 0.65,
+		"achievements": [
+			"Increased women's participation in government and politics.",
+			"Implemented laws to prevent violence against women."
+		],
+		"workNeeded": [
+			"Enforcing existing laws and policies that protect women's rights.",
+			"Increasing access to education and economic opportunities for women."
+		]
+	},
+	"uy": {
+		"name": "Uruguay",
+		"score": 0.85,
+		"achievements": [
+			"Legalized abortion in 2012"
+		],
+		"workNeeded": [
+			"Increase women's representation in politics and business"
+		]
+	},
+	"ar": {
+		"name": "Argentina",
+		"score": 0.78,
+		"achievements": [
+			"Legalized abortion in December 2020"
+		],
+		"workNeeded": [
+			"Addressing gender-based violence and femicide"
+		]
+	},
+	"cl": {
+		"name": "Chile",
+		"score": 0.68,
+		"achievements": [
+			"Introduced gender identity legislation that protects transgender individuals from discrimination."
+		],
+		"workNeeded": [
+			"Addressing the wage gap between men and women.",
+			"Increasing representation of women in politics and leadership positions."
+		]
+	},
+	"br": {
+		"name": "Brazil",
+		"score": 0.75,
+		"achievements": [
+			"Implemented laws against domestic violence and femicide",
+			"Increased representation of women in politics"
+		],
+		"workNeeded": [
+			"Eliminate gender wage gap",
+			"Reduce high rates of feminicide"
+		]
+	},
+	"bz": {
+		"name": "Belize",
+		"score": 0.68,
+		"achievements": [
+			"Passed the Domestic Violence Act which provides protection for women in abusive relationships."
+		],
+		"workNeeded": [
+			"Addressing the high rates of gender-based violence and improving access to education and economic opportunities for women."
+		]
+	},
+	"mn": {
+		"name": "Mongolia",
+		"score": 0.75,
+		"achievements": [
+			"Adopted laws against domestic violence and sexual abuse",
+			"Implemented a quota system for women's participation in politics"
+		],
+		"workNeeded": [
+			"Eliminating gender-based stereotypes in society",
+			"Improving access to education and healthcare for women in rural areas"
+		]
+	},
+	"kp": {
+		"name": "North Korea",
+		"score": 0.5,
+		"achievements": [
+			"Women have been granted equal access to education and employment opportunities.",
+			"The government has allocated resources to provide maternity leave and childcare services."
+		],
+		"workNeeded": [
+			"Lack of protection against domestic violence and sexual harassment.",
+			"Limited participation in political decision-making processes."
+		]
+	},
+	"kr": {
+		"name": "South Korea",
+		"score": 0.78,
+		"achievements": [
+			"Increased female labor force participation and representation in politics.",
+			"Implemented laws to protect women from violence and sexual harassment."
+		],
+		"workNeeded": [
+			"Combatting gender-based discrimination and the gender pay gap.",
+			"Eliminating patriarchal attitudes and traditional gender roles."
+		]
+	},
+	"kz": {
+		"name": "Kazakhstan",
+		"score": 0.62,
+		"achievements": [
+			"Increased representation of women in politics and workforce."
+		],
+		"workNeeded": [
+			"Combat gender-based violence and discrimination."
+		]
+	},
+	"tm": {
+		"name": "Turkmenistan",
+		"score": 0.6,
+		"achievements": [
+			"Provided free healthcare and education for women",
+			"Increased representation of women in government"
+		],
+		"workNeeded": [
+			"Eliminating gender-based discrimination in employment",
+			"Strengthening protection for victims of domestic violence"
+		]
+	},
+	"uz": {
+		"name": "Uzbekistan",
+		"score": 0.64,
+		"achievements": [
+			"Increased women's representation in parliament and government positions.",
+			"Established laws prohibiting violence against women."
+		],
+		"workNeeded": [
+			"Addressing pervasive societal attitudes that perpetuate gender inequality.",
+			"Ensuring effective enforcement of laws protecting women's rights."
+		]
+	},
+	"tj": {
+		"name": "Tajikistan",
+		"score": 0.6,
+		"achievements": [
+			"Increased women's representation in government and politics.",
+			"Implemented laws to protect women from domestic violence."
+		],
+		"workNeeded": [
+			"Improve access to education for girls in rural areas.",
+			"Address cultural norms that limit women's economic opportunities."
+		]
+	},
+	"kg": {
+		"name": "Kyrgyzstan",
+		"score": 0.65,
+		"achievements": [
+			"Increased representation of women in politics and government."
+		],
+		"workNeeded": [
+			"Combat violence against women and girls."
+		]
+	},
+	"af": {
+		"name": "Afghanistan",
+		"score": 0.25,
+		"achievements": [
+			"Increased women's representation in government and public life."
+		],
+		"workNeeded": [
+			"Combat gender-based violence and discrimination against women."
+		]
+	},
+	"pk": {
+		"name": "Pakistan",
+		"score": 0.67,
+		"achievements": [
+			"Introduced laws to protect women from domestic violence and harassment.",
+			"Increased representation of women in politics and government."
+		],
+		"workNeeded": [
+			"Eliminate discrimination against women in employment, education, and access to healthcare.",
+			"Prevent honor killings and acid attacks on women."
+		]
+	},
+	"in": {
+		"name": "India",
+		"score": 0.67,
+		"achievements": [
+			"Introduced laws against domestic violence and sexual harassment in the workplace.",
+			"Implemented reservation of seats for women in local government bodies."
+		],
+		"workNeeded": [
+			"Gender pay gap still exists.",
+			"High incidence of gender-based violence, including rape and dowry deaths."
+		]
+	},
+	"np": {
+		"name": "Nepal",
+		"score": 0.64,
+		"achievements": [
+			"Increased women's representation in politics and government.",
+			"Implemented laws against human trafficking."
+		],
+		"workNeeded": [
+			"Addressing violence against women and girls.",
+			"Ensuring access to education for girls and women."
+		]
+	},
+	"bt": {
+		"name": "Bhutan",
+		"score": 0.72,
+		"achievements": [
+			"Established National Commission for Women and Children in 2004 to promote gender equality.",
+			"Introduced free education for girls until secondary school in 2008."
+		],
+		"workNeeded": [
+			"Increase female representation in politics and decision-making roles.",
+			"Implement measures to combat domestic violence and increase access to justice for women."
+		]
+	},
+	"bd": {
+		"name": "Bangladesh",
+		"score": 0.7,
+		"achievements": [
+			"Increased women's participation in the workforce.",
+			"Implemented laws to protect women from domestic violence."
+		],
+		"workNeeded": [
+			"Eliminating child marriage and improving access to education for girls.",
+			"Ensuring more equitable distribution of inheritance rights between men and women."
+		]
+	},
+	"mm": {
+		"name": "Myanmar",
+		"score": 0.65,
+		"achievements": [
+			"Increased women's representation in government and parliament."
+		],
+		"workNeeded": [
+			"Combat gender-based violence and discrimination against women."
+		]
+	},
+	"th": {
+		"name": "Thailand",
+		"score": 0.76,
+		"achievements": [
+			"Increased representation of women in politics and government.",
+			"Improved access to education and healthcare for women."
+		],
+		"workNeeded": [
+			"Eliminating discrimination against women in the workplace and society.",
+			"Preventing gender-based violence and ensuring justice for victims."
+		]
+	},
+	"kh": {
+		"name": "Cambodia",
+		"score": 0.67,
+		"achievements": [
+			"Increased women's political representation",
+			"Implemented policies to combat domestic violence"
+		],
+		"workNeeded": [
+			"Eliminating gender-based discrimination in the workplace",
+			"Addressing inadequate access to education for girls"
+		]
+	},
+	"la": {
+		"name": "Laos",
+		"score": 0.62,
+		"achievements": [
+			"Increased women's representation in politics and government.",
+			"Adopted policies to eliminate gender-based violence."
+		],
+		"workNeeded": [
+			"Improve access to education, healthcare, and economic opportunities for women.",
+			"End discrimination against ethnic minority women."
+		]
+	},
+	"vn": {
+		"name": "Vietnam",
+		"score": 0.75,
+		"achievements": [
+			"Increased women's representation in government and leadership positions."
+		],
+		"workNeeded": [
+			"Eliminate gender-based violence and discrimination."
+		]
+	},
+	"ge": {
+		"name": "Georgia",
+		"score": 0.65,
+		"achievements": [
+			"Increased women's representation in parliament.",
+			"Implemented laws against domestic violence."
+		],
+		"workNeeded": [
+			"Ensuring equal pay for equal work.",
+			"Raising awareness about gender-based discrimination."
+		]
+	},
+	"am": {
+		"name": "Armenia",
+		"score": 0.7,
+		"achievements": [
+			"Adopted a law on domestic violence in 2017.",
+			"Increased the number of women in political leadership positions."
+		],
+		"workNeeded": [
+			"The implementation and enforcement of laws protecting women's rights need to be improved.",
+			"More efforts are needed to combat gender-based violence and promote gender equality."
+		]
+	},
+	"az": {
+		"name": "Azerbaijan",
+		"score": 0.68,
+		"achievements": [
+			"Women have equal rights under the law.",
+			"Women are represented in parliament."
+		],
+		"workNeeded": [
+			"Eliminating gender stereotypes and discrimination against women.",
+			"Increasing access to education and employment opportunities for women."
+		]
+	},
+	"ir": {
+		"name": "Iran",
+		"score": 0.35,
+		"achievements": [
+			"Women have made significant strides in education and workforce participation."
+		],
+		"workNeeded": [
+			"Women still face legal discrimination in areas such as marriage, divorce, child custody, and inheritance.",
+			"Gender-based violence and harassment are widespread, and women's rights activists are often targeted by authorities."
+		]
+	},
+	"tr": {
+		"name": "Turkey",
+		"score": 0.62,
+		"achievements": [
+			"Increased representation of women in politics and public life.",
+			"Established laws against domestic violence."
+		],
+		"workNeeded": [
+			"Addressing the gender wage gap.",
+			"Improving access to education for girls, particularly in rural areas."
+		]
+	},
+	"om": {
+		"name": "Oman",
+		"score": 0.63,
+		"achievements": [
+			"Women can independently apply for passports.",
+			"Women have access to education and healthcare."
+		],
+		"workNeeded": [
+			"Elimination of discriminatory laws and practices",
+			"Increasing women's participation in the workforce and political representation."
+		]
+	},
+	"ae": {
+		"name": "United Arab Emirates",
+		"score": 0.73,
+		"achievements": [
+			"Increased women's participation in the workforce."
+		],
+		"workNeeded": [
+			"Improve legal protections for women, including in cases of domestic violence."
+		]
+	},
+	"qa": {
+		"name": "Qatar",
+		"score": 0.65,
+		"achievements": [
+			"Qatar has made progress in women's education and healthcare, with women now accounting for the majority of university graduates in the country."
+		],
+		"workNeeded": [
+			"Despite some progress, women in Qatar still face significant barriers when it comes to participating in the workforce and holding leadership positions."
+		]
+	},
+	"kw": {
+		"name": "Kuwait",
+		"score": 0.75,
+		"achievements": [
+			"Women were granted the right to vote and run for office in 2005."
+		],
+		"workNeeded": [
+			"There are still legal barriers to women's equality, such as discriminatory laws regarding marriage, divorce, and inheritance."
+		]
+	},
+	"sa": {
+		"name": "Saudi Arabia",
+		"score": 0.5,
+		"achievements": [
+			"Granting women the right to drive",
+			"Increasing women's participation in the workforce"
+		],
+		"workNeeded": [
+			"Ending male guardianship system",
+			"Ensuring equal rights and protections for women in all areas of life"
+		]
+	},
+	"sy": {
+		"name": "Syrian Arab Republic",
+		"score": 0.48,
+		"achievements": [
+			"Enacted laws protecting women against domestic violence and sexual harassment.",
+			"Increased women's representation in the workforce and government."
+		],
+		"workNeeded": [
+			"Eliminating discrimination against women in the legal system and social norms.",
+			"Ensuring access to education and healthcare for all women, especially those in conflict-affected areas."
+		]
+	},
+	"iq": {
+		"name": "Iraq",
+		"score": 0.42,
+		"achievements": [
+			"Increased women's political participation through quotas in parliament."
+		],
+		"workNeeded": [
+			"Combatting violence against women and ensuring equality in inheritance."
+		]
+	},
+	"jo": {
+		"name": "Jordan",
+		"score": 0.72,
+		"achievements": [
+			"Women have the right to vote and run for office.",
+			"Jordan has implemented policies aimed at combating violence against women."
+		],
+		"workNeeded": [
+			"Equal pay for equal work is still not fully enforced.",
+			"Gender stereotypes persist in certain parts of society."
+		]
+	},
+	"lb": {
+		"name": "Lebanon",
+		"score": 0.53,
+		"achievements": [
+			"The Nationality Law was amended in 2011, allowing Lebanese women to pass on their nationality to their children and foreign spouses.",
+			"Women have made significant progress in education and employment."
+		],
+		"workNeeded": [
+			"Violence against women remains prevalent, with weak implementation of laws and inadequate protection measures.",
+			"Discriminatory personal status laws continue to limit women's rights in marriage, divorce, and child custody."
+		]
+	},
+	"il": {
+		"name": "Israel",
+		"score": 0.76,
+		"achievements": [
+			"Women have equal legal rights and protections under the law."
+		],
+		"workNeeded": [
+			"Women face significant challenges in achieving leadership positions in both the public and private sectors."
+		]
+	},
+	"cy": {
+		"name": "Cyprus",
+		"score": 0.75,
+		"achievements": [
+			"Women have equal access to education and employment opportunities."
+		],
+		"workNeeded": [
+			"Gender-based violence and sexual harassment remain prevalent issues."
+		]
+	},
+	"gb": {
+		"name": "United Kingdom",
+		"score": 0.85,
+		"achievements": [
+			"Implemented the Equality Act of 2010 which prohibits discrimination based on gender",
+			"Abortion is legal with no restrictions up to 24 weeks"
+		],
+		"workNeeded": [
+			"Gender pay gap still exists",
+			"Sexual harassment and assault in the workplace needs more attention"
+		]
+	},
+	"ie": {
+		"name": "Ireland",
+		"score": 0.79,
+		"achievements": [
+			"Gender Pay Gap Information Act 2021 requires companies to report on gender pay gaps.",
+			"Repealed the Eighth Amendment to legalize abortion."
+		],
+		"workNeeded": [
+			"Increase the number of women in politics.",
+			"Address the high rate of violence against women."
+		]
+	},
+	"se": {
+		"name": "Sweden",
+		"score": 0.85,
+		"achievements": [
+			"Provided paid parental leave for both parents.",
+			"Implemented gender-neutral language across government agencies."
+		],
+		"workNeeded": [
+			"Addressing the gender pay gap.",
+			"Increasing representation of women in leadership roles."
+		]
+	},
+	"fi": {
+		"name": "Finland",
+		"score": 0.8535,
+		"achievements": [
+			"First country in the world to grant full political rights to women (1906)",
+			"Ranked 3rd out of 156 countries in the World Economic Forum's Global Gender Gap Report 2021"
+		],
+		"workNeeded": [
+			"Closing the gender pay gap",
+			"Increasing representation of women in leadership positions"
+		]
+	},
+	"lt": {
+		"name": "Lithuania",
+		"score": 0.75,
+		"achievements": [
+			"Increased representation of women in politics."
+		],
+		"workNeeded": [
+			"Combating gender-based violence and harassment."
+		]
+	},
+	"by": {
+		"name": "Belarus",
+		"score": 0.75,
+		"achievements": [
+			"Women have equal access to education and employment opportunities."
+		],
+		"workNeeded": [
+			"Addressing issues of gender-based violence and discrimination against women."
+		]
+	},
+	"pl": {
+		"name": "Poland",
+		"score": 0.72,
+		"achievements": [
+			"Increased representation of women in politics and government",
+			"Improved access to reproductive healthcare"
+		],
+		"workNeeded": [
+			"Addressing issues of gender pay gap",
+			"Strengthening protections against domestic violence"
+		]
+	},
+	"it": {
+		"name": "Italy",
+		"score": 0.82,
+		"achievements": [
+			"Introduced paid maternity leave in 1971.",
+			"The government has set up a task force to combat violence against women."
+		],
+		"workNeeded": [
+			"Closing the gender pay gap, which is still relatively large.",
+			"Increasing the representation of women in politics and leadership positions."
+		]
+	},
+	"nl": {
+		"name": "Netherlands",
+		"score": 0.85,
+		"achievements": [
+			"Legalized abortion and decriminalized euthanasia",
+			"First country in the world to legalize same-sex marriage"
+		],
+		"workNeeded": [
+			"Gender pay gap still exists",
+			"Sexual harassment and violence against women is still prevalent"
+		]
+	},
+	"be": {
+		"name": "Belgium",
+		"score": 0.75,
+		"achievements": [
+			"Legalized abortion in 1990",
+			"Gender quotas for electoral lists"
+		],
+		"workNeeded": [
+			"Equal pay enforcement",
+			"Addressing high rates of violence against women"
+		]
+	},
+	"de": {
+		"name": "Germany",
+		"score": 0.87,
+		"achievements": [
+			"Legalized abortion in 1974",
+			"Quota for women on corporate boards"
+		],
+		"workNeeded": [
+			"Gender pay gap",
+			"Representation in politics"
+		]
+	},
+	"dk": {
+		"name": "Denmark",
+		"score": 0.9,
+		"achievements": [
+			"Implemented a parental leave policy that allows for up to 52 weeks of paid leave regardless of gender.",
+			"Equal pay for equal work is legally enforced."
+		],
+		"workNeeded": [
+			"A gender pay gap still exists, with women earning approximately 5% less than men in comparable positions.",
+			"Women are underrepresented in high-level corporate and political positions."
+		]
+	},
+	"ch": {
+		"name": "Switzerland",
+		"score": 0.84,
+		"achievements": [
+			"Provided women with the right to vote in federal elections in 1971.",
+			"Implemented laws prohibiting gender discrimination in employment."
+		],
+		"workNeeded": [
+			"Increase female representation in political and business leadership positions.",
+			"Address the wage gap between men and women."
+		]
+	},
+	"cz": {
+		"name": "Czechia",
+		"score": 0.73,
+		"achievements": [
+			"Women have access to education and employment opportunities",
+			"Legislation prohibits discrimination based on gender"
+		],
+		"workNeeded": [
+			"Gender pay gap remains significant",
+			"Low representation of women in politics and leadership positions"
+		]
+	},
+	"sk": {
+		"name": "Slovakia",
+		"score": 0.72,
+		"achievements": [
+			"Passed laws to combat domestic violence",
+			"Increased representation of women in politics"
+		],
+		"workNeeded": [
+			"Reduce the gender pay gap",
+			"Combat discrimination against Romani women"
+		]
+	},
+	"at": {
+		"name": "Austria",
+		"score": 0.8,
+		"achievements": [
+			"Guaranteed equal rights in their constitution",
+			"Increased women's representation in politics"
+		],
+		"workNeeded": [
+			"Equal pay and opportunity in the workforce",
+			"Addressing gender-based violence"
+		]
+	},
+	"hu": {
+		"name": "Hungary",
+		"score": 0.65,
+		"achievements": [
+			"Established the National Council for Women",
+			"Implemented gender quotas in politics"
+		],
+		"workNeeded": [
+			"Combatting gender-based violence",
+			"Closing the gender pay gap"
+		]
+	},
+	"si": {
+		"name": "Slovenia",
+		"score": 0.83,
+		"achievements": [
+			"Increased representation of women in politics and decision-making positions.",
+			"Enacted legislation to protect women from domestic violence."
+		],
+		"workNeeded": [
+			"Closing the gender pay gap.",
+			"Increasing awareness and enforcement of gender equality policies."
+		]
+	},
+	"hr": {
+		"name": "Croatia",
+		"score": 0.74,
+		"achievements": [
+			"The Gender Equality Ombudsman is responsible for ensuring the implementation of gender equality laws.",
+			"Legal protection against gender-based discrimination in employment and education."
+		],
+		"workNeeded": [
+			"Croatia still has a significant gender pay gap.",
+			"There is still room for improvement in the representation of women in political and economic decision-making positions."
+		]
+	},
+	"ba": {
+		"name": "Bosnia and Herzegovina",
+		"score": 0.6,
+		"achievements": [
+			"Introduced a law on gender equality that prohibits discrimination against women in all areas of life."
+		],
+		"workNeeded": [
+			"Addressing gaps in implementation and enforcement of laws protecting women's rights, particularly in rural and marginalized communities."
+		]
+	},
+	"mt": {
+		"name": "Malta",
+		"score": 0.73,
+		"achievements": [
+			"Legalized abortion in certain cases (2021)",
+			"Increased participation of women in the labor force"
+		],
+		"workNeeded": [
+			"Equal pay for equal work",
+			"Ending gender-based violence and harassment"
+		]
+	},
+	"ua": {
+		"name": "Ukraine",
+		"score": 0.73,
+		"achievements": [
+			"Ratified Convention on the Elimination of All Forms of Discrimination Against Women (CEDAW)",
+			"Introduced laws to combat domestic violence and sexual harassment"
+		],
+		"workNeeded": [
+			"Increasing women's participation in politics and public life",
+			"Reducing gender pay gap and discrimination in the workplace"
+		]
+	},
+	"md": {
+		"name": "Moldova",
+		"score": 0.7,
+		"achievements": [
+			"Adoption of legislation on gender equality and violence against women",
+			"Increasing women's representation in politics"
+		],
+		"workNeeded": [
+			"Eliminating discrimination against women in employment and education",
+			"Combating domestic violence and ensuring adequate punishment for perpetrators"
+		]
+	},
+	"ro": {
+		"name": "Romania",
+		"score": 0.75,
+		"achievements": [
+			"Implemented laws to prevent domestic violence against women.",
+			"Increased the number of women in political leadership positions."
+		],
+		"workNeeded": [
+			"Eliminate gender stereotypes and discrimination.",
+			"Reduce the gender pay gap."
+		]
+	},
+	"me": {
+		"name": "Montenegro",
+		"score": 0.65,
+		"achievements": [
+			"Increased female representation in government and corporate leadership positions."
+		],
+		"workNeeded": [
+			"Equal pay and opportunities for women in the workforce."
+		]
+	},
+	"rs": {
+		"name": "Serbia",
+		"score": 0.65,
+		"achievements": [
+			"Increased representation of women in politics and public life."
+		],
+		"workNeeded": [
+			"Addressing gender-based violence and discrimination."
+		]
+	},
+	"bg": {
+		"name": "Bulgaria",
+		"score": 0.75,
+		"achievements": [
+			"Increased gender equality in access to education and employment."
+		],
+		"workNeeded": [
+			"Reduce gender pay gap and increase women's representation in politics."
+		]
+	},
+	"al": {
+		"name": "Albania",
+		"score": 0.75,
+		"achievements": [
+			"Increased women's representation in politics and government.",
+			"The Law on Measures Against Violence in Family Relations was passed in 2006."
+		],
+		"workNeeded": [
+			"Raising awareness and combating discrimination against women, particularly in rural areas.",
+			"Improving access to education and healthcare for women."
+		]
+	},
+	"mk": {
+		"name": "North Macedonia",
+		"score": 0.7,
+		"achievements": [
+			"Ratified the Council of Europe Convention on preventing and combating violence against women and domestic violence (Istanbul Convention)."
+		],
+		"workNeeded": [
+			"Increase participation of women in politics and decision-making positions."
+		]
+	},
+	"gr": {
+		"name": "Greece",
+		"score": 0.72,
+		"achievements": [
+			"Introduced laws against gender-based violence and harassment.",
+			"Increased representation of women in politics."
+		],
+		"workNeeded": [
+			"Address the gender pay gap.",
+			"Combat stereotypes and discrimination against women in the workplace."
+		]
+	},
+	"lv": {
+		"name": "Latvia",
+		"score": 0.7,
+		"achievements": [
+			"Implemented legislative measures to combat gender-based violence"
+		],
+		"workNeeded": [
+			"Increase women's participation in politics and leadership positions"
+		]
+	}
+}
