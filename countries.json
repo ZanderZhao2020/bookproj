@@ -1388,6 +1388,7 @@
 	"pk": {
 		"name": "Pakistan",
 		"score": 0.67,
+		"col": "0, 0, 255",
 		"achievements": [
 			"Introduced laws to protect women from domestic violence and harassment.",
 			"Increased representation of women in politics and government."

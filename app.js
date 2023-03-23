@@ -20,7 +20,7 @@ fetch("world.svg").then(res => res.text()).then(worldSrc => {
 		document.body.appendChild(world);
 		var src = "<style>";
 		for (var [key, val] of Object.entries(countries)) {
-			src += "." + key + "{fill:rgb(" + (1 - val.score) * 255 + "," + val.score * 255 + ",0)}";
+			src += "." + key + "{fill:rgb(" + (val.col ? val.col : (1 - val.score) * 255 + "," + val.score * 255 + ",0") + ")}";
 			for (var element of document.getElementsByClassName(key)) {
 				element.onmouseover = evt => {
 					code = evt.target.className.baseVal;
